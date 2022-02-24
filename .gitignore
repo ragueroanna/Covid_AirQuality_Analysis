@@ -3,3 +3,4 @@
 *.Rhistory
 *checkpoint.ipynb
 .ipynb_checkpoints/*.*
+data/COVID/COV*.csv
